@@ -12,3 +12,4 @@ Feature: Glacier Multipart Uploads
       | non-seekable | 1           |
       | seekable     | 3           |
       | non-seekable | 3           |
+  Scenario Outline: Uploading a stream.hht//pp
